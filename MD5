@@ -1,0 +1,16 @@
+080dcaa01eb3cff645f07f32caea9e8e *DESCRIPTION
+96513898adc40a3f8ee188470a474aa1 *LICENSE
+0c26c05633decaffe4f2f835acd0522f *NAMESPACE
+30e4dcce82e1d8f36e7e413918bb9bad *R/funs.R
+87202352e398c3c08cc6baddc5d2d650 *README.md
+638da5d756354abb6cc6ca34b1e73053 *man/figures/inkscape_version.svg
+b714484ce4f071b582d3e0d43d3caa16 *man/figures/inkscape_version.svg.2020_03_31_09_30_30.0.svg
+55d06a0c3228e4b06f2713620d9f9e1a *man/figures/inkscape_version.svg.2020_03_31_09_30_30.1.svg
+7c3d3a2c36dac6a434787df90e9334e6 *man/figures/logo.png
+be4c26ef6fdea1a2b3d530d4c9d12b5e *man/figures/logo.svg
+26a5dbf122f4e7b4c9d632f076a2743c *man/figures/logo.svg.2020_03_31_09_30_30.2.svg
+d69d6f5e56e1a166710dc8baca84c4ba *man/stickr_get.Rd
+790b092f9c38ff972ed3d7fb0328cf3d *man/stickr_insert.Rd
+36cf3f24203a6ca50fd09a1e2e718809 *tests/testthat.R
+ad0661699d2538a2ea3e6b3857cdf3b2 *tests/testthat/test-getting_stickers.R
+54796352ff3c3a6a05e954b29efbd2e0 *tests/testthat/test-utils.R
